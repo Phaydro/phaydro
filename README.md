@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on getting my Bachelor of Science in Computer Science
+## - 🔭 I’m currently working on getting my Bachelor of Science in Computer Science
 - 🌱 I’m currently learning C++ basic programing
 - 👯 I’m looking to collaborate on different kinds of projects with C++
 - 🤔 I’m looking for help with advanced coding
