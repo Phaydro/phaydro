@@ -7,4 +7,3 @@
 - 📫 How to reach me: n/a
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to dance!
--->
