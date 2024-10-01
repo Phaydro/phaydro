@@ -1,10 +1,4 @@
 ## Hi there 👋
-
-<!--
-**Phaydro/phaydro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ## - 🔭 I’m currently working on getting my Bachelor of Science in Computer Science
 - 🌱 I’m currently learning C++ basic programing
 - 👯 I’m looking to collaborate on different kinds of projects with C++
